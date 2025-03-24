@@ -1,5 +1,8 @@
 numpy
 tensorflow
+watchdog
+matplotlib
+Flask-SQLAlchemy
 flask
 Werkzeug
 gunicorn
