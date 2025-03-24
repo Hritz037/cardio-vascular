@@ -4,6 +4,7 @@ watchdog
 matplotlib
 Flask-SQLAlchemy
 flask
+scipy
 Werkzeug
 gunicorn
 
