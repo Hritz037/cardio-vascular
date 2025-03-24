@@ -5,6 +5,7 @@ watchdog
 imageio
 matplotlib
 Flask-SQLAlchemy
+scikit-learn
 flask
 scipy
 Werkzeug
