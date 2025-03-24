@@ -29,7 +29,7 @@ UPLOAD_FOLDER = os.path.join(app.root_path ,'static','img')
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///C:/Users/Hritika/Downloads/Heart Disease Project/patients.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///patients.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db.init_app(app)
 
